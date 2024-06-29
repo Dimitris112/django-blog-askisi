@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-&m%gu-ez==#b@$+_t99xi_wgv()$4vr7#$-og^=x4rdhx6lh6j
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    "8000-ajgreaves-blog-lesson-pl-lfv6kgfdws.us2.codeanyapp.com",
+    "8000-dimitris112-djangobloga-xqw40kpkb83.ws.codeinstitute-ide.net",
     ".herokuapp.com"
 ]
 
