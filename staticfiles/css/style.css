@@ -111,6 +111,11 @@ body {
     color: lightgray;
 }
 
+.edited {
+    font-size: 12px;
+    color: lightslategray;
+}
+
 .btn-signup,
 .btn-edit {
     background-color: #188181;
